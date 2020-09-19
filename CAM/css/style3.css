@@ -1,0 +1,93 @@
+  #buttonOff{
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    width: 14%;
+    font-size: 16px;
+    border-color: black;
+    border-radius: 8px;
+    margin-left: 75%;
+   }
+
+   #borderPatrol{
+    border: solid 20px #924b0b;
+   }
+
+  .container{
+    margin-top: 10%;
+  }
+
+   #parr{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+   }
+  #OpasityText{
+  position: relative;
+  bottom: 2%;
+  left: 5%;
+  background: #cce8ea;
+  color: black;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 1%;
+  border-radius: 8px;
+}
+
+  #ArtworkTitle{
+  color: #204051 ;
+  margin-top: 10%;
+  }
+
+  #ArtworkPresent{
+    border: solid 5px black;
+    box-shadow: 0px 10px 10px 1px rgba(0,0,0,0.75); 
+  }
+
+  
+  .fa {
+    padding: 9px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+  
+  .fa:hover {
+  
+    opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    color: black 
+  
+  }
+  .fa-house{
+    color: black;
+  }
+  
+  .fa-twitter {
+    color: black;
+  }
+  
+  .fa-instagram {
+    color: black;
+  }
+  #foot{
+    background-color: gainsboro;
+  } 
+  #footmargin{
+    margin-top: 14%;
+  }
+  #footmargin2{
+    margin-top: 23%;
+  }
+  a:visited {color: black;}
+
+  a{
+    color: black;
+  }
+  
+a:hover{
+  color: black;
+}

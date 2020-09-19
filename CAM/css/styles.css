@@ -1,0 +1,137 @@
+.Paragraph {
+  text-align: justify;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: Oswald;
+}
+.Paragraph2 {
+  text-align: justify;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: Oswald;
+  margin-top: 10%;
+}
+.Index1 {
+  margin-top: 10%;
+  margin-left: 20%;
+  font-family: Merriweather, serif;
+  font-weight: 600;
+  font-size: 200%;
+}
+
+.Index2 {
+  margin-left: 20%;
+  font-family: Merriweather, serif;
+  font-size: 120%;
+}
+
+.Introduction {
+  margin-left: 5%;
+}
+.Title {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1%;
+  font-family: Merriweather, serif;
+  font-size: 120%;
+}
+
+.Title2 {
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.Primary {
+  margin-top: 4%;
+  margin-bottom: 0.3%;
+  font-family: Merriweather, serif;
+  font-weight: 600;
+  font-size: 200%;
+}
+
+.Secondary {
+  margin-top: 0.3%;
+  margin-bottom: 0.3%;
+  font-family: Merriweather;
+  font-weight: 400;
+  font-size: 100%;
+}
+
+.Center {
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  font-size: 150%;
+}
+
+.btn-group button {
+  margin-left: 50%;
+  background-color: white; 
+  border: none;
+  color: black;
+  padding: 2%;
+  cursor: pointer;
+  float: left;
+}
+
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:hover {
+  background-color: #00000011;
+}
+
+.Artists {
+  width: 200px;
+  height: 250px;
+}
+
+.fa {
+  padding: 9px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 5px;
+}
+
+.fa:hover {
+
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: black 
+
+}
+.fa-house{
+  color: black;
+}
+
+.fa-twitter {
+  color: black;
+}
+
+.fa-instagram {
+  color: black;
+}
+#foot{
+  background-color: gainsboro;
+} 
+#footmargin{
+  margin-top: 14%;
+}
+#footmargin2{
+  margin-top: 23%;
+}
+
+a:visited {color: black;}
+
+a{
+  color: black;
+}
+a:hover{
+  color: black;
+}
